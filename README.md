@@ -1,4 +1,4 @@
 # mntc-games
-My project for MNTC Auditions
-Anurag Sarkar
+My project for MNTC Auditions <br>
+Anurag Sarkar,<br>
 NIT Durgapur
